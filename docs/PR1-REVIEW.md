@@ -1,0 +1,1 @@
+PR review focus: API documentation is scoped to the current endpoints and identifies the expected 404 behaviour for missing events.
