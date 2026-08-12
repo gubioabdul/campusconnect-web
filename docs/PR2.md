@@ -1,0 +1,1 @@
+This pull request adds a repository-wide pull request template and maintainer review guidance.
